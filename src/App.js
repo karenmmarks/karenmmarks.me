@@ -8,12 +8,14 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>"Arran" Christopher Kelly, MEd</h1>
+      <h1>Karen M. Marks</h1>
+      <h2>Bio</h2>
+        {/* <h1>"Arran" Christopher Kelly, MEd</h1> */}
         <img src={headshot} className="head-shot" alt="Christopher Kelly Engage to Activate's CEO" />
-        <h2>Engage 2 Activate</h2>
+        {/* <h2>Engage 2 Activate</h2>
         <p>
           Welcome to Christopher Kelly's Engagement Strategist new website
-        </p>
+        </p> */}
         <a
           className="App-link"
           href="https://reactjs.org"
